@@ -22,4 +22,4 @@ Telecommunication data were downloaded from [UNdata](https://data.un.org/Explore
 |United States.|Uganda|
 
 ## Visualisation
-View the dashboard [here](https://app.powerbi.com/groups/me/reports/92269f01-0abf-4538-b8e1-7b456f3edf1c/ReportSection?experience=power-bi)
+The dashboard is published [here](https://app.powerbi.com/groups/me/reports/92269f01-0abf-4538-b8e1-7b456f3edf1c/ReportSection?experience=power-bi)
